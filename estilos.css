@@ -1,0 +1,16 @@
+.mi-boton{
+    background: gainsboro;
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+    padding: 5px 10px;
+    border: none;
+}
+
+.mi-boton:hover{
+    background: gray;
+}
+
+#titulo-principal{
+    color: RoyalBlue;
+}
